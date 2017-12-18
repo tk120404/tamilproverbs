@@ -12,238 +12,238 @@ With this repo we are trying to provide Tamil Proverbs  as json
 
  - letter: அ,
      - count: 52,
-     - filename: [0.json](https://github.com/tk120404/tamilproverbs/blob/master/0.json)
+     - filename: [0.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/0.json)
  - letter: ஆ,
      - count: 24,
-     - filename: [1.json](https://github.com/tk120404/tamilproverbs/blob/master/1.json)
+     - filename: [1.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/1.json)
  - letter: இ,
      - count: 31,
-     - filename: [2.json](https://github.com/tk120404/tamilproverbs/blob/master/2.json)
+     - filename: [2.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/2.json)
  - letter: ஈ,
      - count: 4,
-     - filename: [3.json](https://github.com/tk120404/tamilproverbs/blob/master/3.json)
+     - filename: [3.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/3.json)
  - letter: உ,
      - count: 28,
-     - filename: [4.json](https://github.com/tk120404/tamilproverbs/blob/master/4.json)
+     - filename: [4.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/4.json)
  - letter: ஊ,
      - count: 9,
-     - filename: [5.json](https://github.com/tk120404/tamilproverbs/blob/master/5.json)
+     - filename: [5.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/5.json)
  - letter: எ,
      - count: 42,
-     - filename: [6.json](https://github.com/tk120404/tamilproverbs/blob/master/6.json)
+     - filename: [6.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/6.json)
  - letter: ஏ,
      - count: 9,
-     - filename: [7.json](https://github.com/tk120404/tamilproverbs/blob/master/7.json)
+     - filename: [7.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/7.json)
  - letter: ஐ,
      - count: 2,
-     - filename: [8.json](https://github.com/tk120404/tamilproverbs/blob/master/8.json)
+     - filename: [8.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/8.json)
  - letter: ஒ,
      - count: 1,
-     - filename: [9.json](https://github.com/tk120404/tamilproverbs/blob/master/9.json)
+     - filename: [9.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/9.json)
  - letter: ஓ,
      - count: 1,
-     - filename: [10.json](https://github.com/tk120404/tamilproverbs/blob/master/10.json)
+     - filename: [10.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/10.json)
  - letter: ஒ,
      - count: 14,
-     - filename: [11.json](https://github.com/tk120404/tamilproverbs/blob/master/11.json)
+     - filename: [11.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/11.json)
  - letter: ஓ,
      - count: 9,
-     - filename: [12.json](https://github.com/tk120404/tamilproverbs/blob/master/12.json)
+     - filename: [12.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/12.json)
  - letter: ஒ,
      - count: 1,
-     - filename: [13.json](https://github.com/tk120404/tamilproverbs/blob/master/13.json)
+     - filename: [13.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/13.json)
  - letter: க,
      - count: 69,
-     - filename: [14.json](https://github.com/tk120404/tamilproverbs/blob/master/14.json)
+     - filename: [14.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/14.json)
  - letter: கா,
      - count: 24,
-     - filename: [15.json](https://github.com/tk120404/tamilproverbs/blob/master/15.json)
+     - filename: [15.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/15.json)
  - letter: கி,
      - count: 3,
-     - filename: [16.json](https://github.com/tk120404/tamilproverbs/blob/master/16.json)
+     - filename: [16.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/16.json)
  - letter: கீ,
      - count: 2,
-     - filename: [17.json](https://github.com/tk120404/tamilproverbs/blob/master/17.json)
+     - filename: [17.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/17.json)
  - letter: கு,
      - count: 31,
-     - filename: [18.json](https://github.com/tk120404/tamilproverbs/blob/master/18.json)
+     - filename: [18.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/18.json)
  - letter: கூ,
      - count: 6,
-     - filename: [19.json](https://github.com/tk120404/tamilproverbs/blob/master/19.json)
+     - filename: [19.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/19.json)
  - letter: கெ,
      - count: 9,
-     - filename: [20.json](https://github.com/tk120404/tamilproverbs/blob/master/20.json)
+     - filename: [20.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/20.json)
  - letter: கே,
      - count: 4,
-     - filename: [21.json](https://github.com/tk120404/tamilproverbs/blob/master/21.json)
+     - filename: [21.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/21.json)
  - letter: கை,
      - count: 10,
-     - filename: [22.json](https://github.com/tk120404/tamilproverbs/blob/master/22.json)
+     - filename: [22.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/22.json)
  - letter: கொ,
      - count: 11,
-     - filename: [23.json](https://github.com/tk120404/tamilproverbs/blob/master/23.json)
+     - filename: [23.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/23.json)
  - letter: கோ,
      - count: 12,
-     - filename: [24.json](https://github.com/tk120404/tamilproverbs/blob/master/24.json)
+     - filename: [24.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/24.json)
  - letter: ச,
      - count: 9,
-     - filename: [25.json](https://github.com/tk120404/tamilproverbs/blob/master/25.json)
+     - filename: [25.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/25.json)
  - letter: சா,
      - count: 5,
-     - filename: [26.json](https://github.com/tk120404/tamilproverbs/blob/master/26.json)
+     - filename: [26.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/26.json)
  - letter: சி,
      - count: 3,
-     - filename: [27.json](https://github.com/tk120404/tamilproverbs/blob/master/27.json)
+     - filename: [27.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/27.json)
  - letter: சு,
      - count: 14,
-     - filename: [28.json](https://github.com/tk120404/tamilproverbs/blob/master/28.json)
+     - filename: [28.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/28.json)
  - letter: சூ,
      - count: 1,
-     - filename: [29.json](https://github.com/tk120404/tamilproverbs/blob/master/29.json)
+     - filename: [29.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/29.json)
  - letter: செ,
      - count: 8,
-     - filename: [30.json](https://github.com/tk120404/tamilproverbs/blob/master/30.json)
+     - filename: [30.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/30.json)
  - letter: சே,
      - count: 3,
-     - filename: [31.json](https://github.com/tk120404/tamilproverbs/blob/master/31.json)
+     - filename: [31.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/31.json)
  - letter: சை,
      - count: 1,
-     - filename: [32.json](https://github.com/tk120404/tamilproverbs/blob/master/32.json)
+     - filename: [32.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/32.json)
  - letter: சொ,
      - count: 10,
-     - filename: [33.json](https://github.com/tk120404/tamilproverbs/blob/master/33.json)
+     - filename: [33.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/33.json)
  - letter: சோ,
      - count: 4,
-     - filename: [34.json](https://github.com/tk120404/tamilproverbs/blob/master/34.json)
+     - filename: [34.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/34.json)
  - letter: த,
      - count: 24,
-     - filename: [35.json](https://github.com/tk120404/tamilproverbs/blob/master/35.json)
+     - filename: [35.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/35.json)
  - letter: தா,
      - count: 5,
-     - filename: [36.json](https://github.com/tk120404/tamilproverbs/blob/master/36.json)
+     - filename: [36.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/36.json)
  - letter: தி,
      - count: 1,
-     - filename: [37.json](https://github.com/tk120404/tamilproverbs/blob/master/37.json)
+     - filename: [37.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/37.json)
  - letter: து,
      - count: 1,
-     - filename: [38.json](https://github.com/tk120404/tamilproverbs/blob/master/38.json)
+     - filename: [38.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/38.json)
  - letter: தூ,
      - count: 1,
-     - filename: [39.json](https://github.com/tk120404/tamilproverbs/blob/master/39.json)
+     - filename: [39.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/39.json)
  - letter: தே,
      - count: 1,
-     - filename: [40.json](https://github.com/tk120404/tamilproverbs/blob/master/40.json)
+     - filename: [40.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/40.json)
  - letter: தொ,
      - count: 1,
-     - filename: [41.json](https://github.com/tk120404/tamilproverbs/blob/master/41.json)
+     - filename: [41.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/41.json)
  - letter: ந,
      - count: 21,
-     - filename: [42.json](https://github.com/tk120404/tamilproverbs/blob/master/42.json)
+     - filename: [42.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/42.json)
  - letter: நா,
      - count: 12,
-     - filename: [43.json](https://github.com/tk120404/tamilproverbs/blob/master/43.json)
+     - filename: [43.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/43.json)
  - letter: நி,
      - count: 7,
-     - filename: [44.json](https://github.com/tk120404/tamilproverbs/blob/master/44.json)
+     - filename: [44.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/44.json)
  - letter: நீ,
      - count: 6,
-     - filename: [45.json](https://github.com/tk120404/tamilproverbs/blob/master/45.json)
+     - filename: [45.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/45.json)
  - letter: நு,
      - count: 3,
-     - filename: [46.json](https://github.com/tk120404/tamilproverbs/blob/master/46.json)
+     - filename: [46.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/46.json)
  - letter: நூ,
      - count: 4,
-     - filename: [47.json](https://github.com/tk120404/tamilproverbs/blob/master/47.json)
+     - filename: [47.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/47.json)
  - letter: நெ,
      - count: 6,
-     - filename: [48.json](https://github.com/tk120404/tamilproverbs/blob/master/48.json)
+     - filename: [48.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/48.json)
  - letter: நே,
      - count: 1,
-     - filename: [49.json](https://github.com/tk120404/tamilproverbs/blob/master/49.json)
+     - filename: [49.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/49.json)
  - letter: நை,
      - count: 1,
-     - filename: [50.json](https://github.com/tk120404/tamilproverbs/blob/master/50.json)
+     - filename: [50.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/50.json)
  - letter: நொ,
      - count: 2,
-     - filename: [51.json](https://github.com/tk120404/tamilproverbs/blob/master/51.json)
+     - filename: [51.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/51.json)
  - letter: நோ,
      - count: 3,
-     - filename: [52.json](https://github.com/tk120404/tamilproverbs/blob/master/52.json)
+     - filename: [52.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/52.json)
  - letter: ப,
      - count: 47,
-     - filename: [53.json](https://github.com/tk120404/tamilproverbs/blob/master/53.json)
+     - filename: [53.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/53.json)
  - letter: பா,
      - count: 4,
-     - filename: [54.json](https://github.com/tk120404/tamilproverbs/blob/master/54.json)
+     - filename: [54.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/54.json)
  - letter: பி,
      - count: 1,
-     - filename: [55.json](https://github.com/tk120404/tamilproverbs/blob/master/55.json)
+     - filename: [55.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/55.json)
  - letter: பு,
      - count: 5,
-     - filename: [56.json](https://github.com/tk120404/tamilproverbs/blob/master/56.json)
+     - filename: [56.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/56.json)
  - letter: பூ,
      - count: 5,
-     - filename: [57.json](https://github.com/tk120404/tamilproverbs/blob/master/57.json)
+     - filename: [57.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/57.json)
  - letter: பெ,
      - count: 8,
-     - filename: [58.json](https://github.com/tk120404/tamilproverbs/blob/master/58.json)
+     - filename: [58.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/58.json)
  - letter: பே,
      - count: 4,
-     - filename: [59.json](https://github.com/tk120404/tamilproverbs/blob/master/59.json)
+     - filename: [59.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/59.json)
  - letter: பொ,
      - count: 9,
-     - filename: [60.json](https://github.com/tk120404/tamilproverbs/blob/master/60.json)
+     - filename: [60.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/60.json)
  - letter: போ,
      - count: 3,
-     - filename: [61.json](https://github.com/tk120404/tamilproverbs/blob/master/61.json)
+     - filename: [61.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/61.json)
  - letter: ம,
      - count: 27,
-     - filename: [62.json](https://github.com/tk120404/tamilproverbs/blob/master/62.json)
+     - filename: [62.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/62.json)
  - letter: மா,
      - count: 16,
-     - filename: [63.json](https://github.com/tk120404/tamilproverbs/blob/master/63.json)
+     - filename: [63.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/63.json)
  - letter: மி,
      - count: 4,
-     - filename: [64.json](https://github.com/tk120404/tamilproverbs/blob/master/64.json)
+     - filename: [64.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/64.json)
  - letter: மீ,
      - count: 2,
-     - filename: [65.json](https://github.com/tk120404/tamilproverbs/blob/master/65.json)
+     - filename: [65.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/65.json)
  - letter: மு,
      - count: 17,
-     - filename: [66.json](https://github.com/tk120404/tamilproverbs/blob/master/66.json)
+     - filename: [66.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/66.json)
  - letter: மூ,
      - count: 1,
-     - filename: [67.json](https://github.com/tk120404/tamilproverbs/blob/master/67.json)
+     - filename: [67.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/67.json)
  - letter: மெ,
      - count: 2,
-     - filename: [68.json](https://github.com/tk120404/tamilproverbs/blob/master/68.json)
+     - filename: [68.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/68.json)
  - letter: மே,
      - count: 2,
-     - filename: [69.json](https://github.com/tk120404/tamilproverbs/blob/master/69.json)
+     - filename: [69.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/69.json)
  - letter: மொ,
      - count: 2,
-     - filename: [70.json](https://github.com/tk120404/tamilproverbs/blob/master/70.json)
+     - filename: [70.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/70.json)
  - letter: மோ,
      - count: 1,
-     - filename: [71.json](https://github.com/tk120404/tamilproverbs/blob/master/71.json)
+     - filename: [71.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/71.json)
  - letter: மெ,
      - count: 1,
-     - filename: [72.json](https://github.com/tk120404/tamilproverbs/blob/master/72.json)
+     - filename: [72.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/72.json)
  - letter: யா,
      - count: 4,
-     - filename: [73.json](https://github.com/tk120404/tamilproverbs/blob/master/73.json)
+     - filename: [73.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/73.json)
  - letter: வ,
      - count: 13,
-     - filename: [74.json](https://github.com/tk120404/tamilproverbs/blob/master/74.json)
+     - filename: [74.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/74.json)
  - letter: வா,
      - count: 7,
-     - filename: [75.json](https://github.com/tk120404/tamilproverbs/blob/master/75.json)
+     - filename: [75.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/75.json)
  - letter: வி,
      - count: 10,
-     - filename: [76.json](https://github.com/tk120404/tamilproverbs/blob/master/76.json)
+     - filename: [76.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/76.json)
  - letter: வீ,
      - count: 1,
-     - filename: [77.json](https://github.com/tk120404/tamilproverbs/blob/master/77.json)
+     - filename: [77.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/77.json)
  - letter: வெ,
      - count: 4,
-     - filename: [78.json](https://github.com/tk120404/tamilproverbs/blob/master/78.json)
+     - filename: [78.json](https://github.com/tk120404/tamilproverbs/blob/master/proverbs/78.json)
